@@ -1,7 +1,7 @@
 ### Hi there
 ### I'm Ashkan
 
-### I'm a Flutter Developer
+### I'm a Android & Flutter Developer
 
 # Skills
 
