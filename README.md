@@ -1,8 +1,8 @@
-### Hi there 👋
-I'm Ashkan
+### Hi there
+### I'm Ashkan
 
-I'm Flutter Developer
+### I'm a Flutter Developer
 
-Skills
+# Skills
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,java,python,git)](https://skillicons.dev)
