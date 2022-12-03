@@ -5,4 +5,4 @@
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,java,python,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,python,git,gitlab,github)](https://skillicons.dev)
