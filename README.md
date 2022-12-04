@@ -1,4 +1,3 @@
-### Hi there
 ### I'm Ashkan
 
 ### I'm a Flutter & Android Developer
