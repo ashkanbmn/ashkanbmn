@@ -3,12 +3,9 @@
 
 **Flutter & Python Developer | AI-Integrated Mobile Apps & Autonomous AI Agents**
 
-Building cross-platform mobile applications with Flutter, sophisticated backends with Python, and intelligent AI agents that power modern app experiences.
-
 🔭 **Currently working on**
 - Flutter applications  
 - AI-powered mobile apps & AI agents  
-- Backend APIs with **FastAPI**
 
 ### Secondary GitHub account:
 https://github.com/ashkanvit
