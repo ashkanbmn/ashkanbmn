@@ -10,7 +10,7 @@ Building cross-platform mobile applications with Flutter, sophisticated backends
 - AI-powered mobile apps & AI agents  
 - Backend APIs with **FastAPI**
 
-🔗 **Secondary GitHub account:**  
+### Secondary GitHub account:
 https://github.com/ashkanvit
 
 ---
