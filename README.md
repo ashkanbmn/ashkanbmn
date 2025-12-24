@@ -4,9 +4,6 @@
 
 **Flutter & Python Developer | AI-Integrated Mobile Apps & Autonomous AI Agents**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashkanvit&label=Profile%20views&color=0e75b6&style=flat" alt="ashkanvit" />
-</p>
 
 ---
 
