@@ -35,15 +35,6 @@ I bridge the gap between high-performance mobile UI and powerful backend AI logi
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashkanvit&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanvit&layout=compact&theme=tokyonight&hide=html" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashkan-bahmani-1ab5b1205)
