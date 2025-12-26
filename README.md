@@ -4,7 +4,6 @@
 
 **Flutter & Python Developer | AI-Integrated Mobile Apps & Autonomous AI Agents**
 
-
 ---
 
 ### 🚀 About Me
