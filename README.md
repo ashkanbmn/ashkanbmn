@@ -7,7 +7,6 @@
 AI-Integrated Mobile Apps & Autonomous AI Agents
 
 ---
-
 ### 🚀 About Me
 
 I specialize in building cross-platform experiences with **Flutter** and orchestrating **Autonomous AI Agents** with Python.  
