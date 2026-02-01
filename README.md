@@ -10,8 +10,8 @@ AI-Integrated Mobile Apps & Autonomous AI Agents
 
 ### 🚀 About Me
 
-I specialize in building cross-platform experiences with **Flutter** and orchestrating **Autonomous AI Agents** with Python.  
-I bridge the gap between high-performance mobile UI and powerful backend AI logic.
+I specialize in crafting high-performance mobile experiences with Flutter, Java, Kotlin, and Swift, while orchestrating Autonomous AI Agents in Python.
+I bridge the gap between beautiful, seamless UI and intelligent, backend AI logic—turning ideas into apps that think, act, and scale.
 
 [Secondary GitHub Account](https://github.com/ashkanvit)
 
