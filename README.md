@@ -12,6 +12,7 @@ AI-Integrated Mobile Apps & Autonomous AI Agents
 
 I build **fast, high-performance mobile apps** with  
 **Flutter · Java · Kotlin · Swift**
+
 I create **Autonomous AI Agents** with **Python**  
 
 [Secondary GitHub Account](https://github.com/ashkanvit)
